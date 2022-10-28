@@ -1,0 +1,19 @@
+{
+  "name": "apv-backend",
+  "version": "1.0.0",
+  "description": "Aprendiendo JS FullStack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devpegar/apv-fullstack.git"
+  },
+  "author": "DevpegAr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devpegar/apv-fullstack/issues"
+  },
+  "homepage": "https://github.com/devpegar/apv-fullstack#readme"
+}
